@@ -1,0 +1,29 @@
+{
+  "name": "npm-init-assigment",
+  "version": "1.0.0",
+  "description": "assigment package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuzSanchez23/Server-Side.git"
+  },
+  "keywords": [
+    "assigment",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "Luz Sanchez nena_baby23@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuzSanchez23/Server-Side/issues"
+  },
+  "homepage": "https://github.com/LuzSanchez23/Server-Side#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "node-geocoder": "^4.0.0"
+  }
+}
